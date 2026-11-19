@@ -1,0 +1,10 @@
+*.tar
+models/*.pkl
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+mlruns/
+mlartifacts/
+*.env
