@@ -1,5 +1,0 @@
-Timestamp: 2026-11-17_20-57-25
-Model Type: CNN
-Predicted Digit: 1
-Confidence: 0.9998
-Latency (ms): 6856.161400035489
